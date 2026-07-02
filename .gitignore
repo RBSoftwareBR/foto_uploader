@@ -1,3 +1,4 @@
 /vendor/
 /composer.phar
 /config/firebase-service-account.json
+/config/cacert.pem
